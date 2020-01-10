@@ -1,0 +1,13 @@
+body {
+    background-color: #CCCCCC;
+}
+
+/* Selecionando o elemento "paragrafo" */
+p {
+    text-align: center;
+}
+
+/* Selecionando o elemento "strong" que está dentro de "emfase". */
+em strong {
+    color: red;
+}
