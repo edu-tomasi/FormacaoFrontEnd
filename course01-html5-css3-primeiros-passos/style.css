@@ -2,9 +2,21 @@ body {
     background-color: #CCCCCC;
 }
 
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
 /* Selecionando o elemento "paragrafo" */
 p {
     text-align: center;
+}
+
+#missao {
+    font-size: 20px;
 }
 
 /* Selecionando o elemento "strong" que está dentro de "emfase". */
